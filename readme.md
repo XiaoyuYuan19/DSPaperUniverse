@@ -144,14 +144,14 @@ icecream==2.1.3
 tqdm==4.65.0
 ```
 
-### Step 4: Prepare Data
+### Step 4: Prepare Data Structure
 
-Place your CSV data files in the `database/` folder:
+CSV data files in the `database/` folder:
 - `literature_data.csv`
 - `author_data.csv`
 - `author_publication_data.csv`
 
-**CSV format requirements:**
+**CSV format:**
 - Literature data: Title, Year, Source title, Author Keywords, References, Cited by, EID, etc.
 - Author data: Author(s) ID, Author Name, Affiliations, country
 - Publication data: Author(s) ID, PublicationEID
@@ -401,7 +401,7 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 ## 📞 Contact
 
-Your Name - [@yourtwitter](https://twitter.com/yourtwitter)
+Your Name - Xiaoyu Yuan
 
 Project Link: [https://github.com/yourusername/ds-paper-universe](https://github.com/yourusername/ds-paper-universe)
 
