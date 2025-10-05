@@ -71,10 +71,10 @@ DS Paper Universe is an intelligent literature analysis platform that helps rese
 
 ## 📸 Screenshots
 
-<div align="center">
-<img src="path/to/homepage-screenshot.png" alt="Homepage" width="45%">
-<img src="path/to/network-screenshot.png" alt="Network View" width="45%">
-</div>
+<img width="1518" height="545" alt="image" src="https://github.com/user-attachments/assets/dff15358-f289-4c67-969a-08f37878f717" />
+
+<img width="1857" height="807" alt="image" src="https://github.com/user-attachments/assets/1db5221b-c9ef-49af-bf41-b5f3c1dc962e" />
+
 
 ---
 
